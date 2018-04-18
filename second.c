@@ -61,6 +61,7 @@ int main()
                 num = num*10 + string[i]-'0';
             }
             
+            
             if(i>=n)
             {
                 arr[index++] = num;
